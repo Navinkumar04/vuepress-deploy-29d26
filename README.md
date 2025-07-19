@@ -8,10 +8,7 @@ VuePress Deploy
 This is a Starter template for a VuePress with a Progressive Web App (PWA) out of the box.
 And it integrates the NetlifyCMS with VuePress.
 
-One-click Deploy
-Deploy to Netlify
-
-Local Development
+#  Local Development
 To try it out locally, clone this repo and generate a static site.
 npm install
 npm run build or npm run dev to start a local server
